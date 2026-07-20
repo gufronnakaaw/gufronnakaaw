@@ -1,4 +1,3 @@
 <div align="center">
-<p>Hi Folks</p>
-<p>welcome to my coding lab.</p>
+  <img src="assets/terminal.svg" alt="terminal" width="640">
 </div>
